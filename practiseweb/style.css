@@ -1,0 +1,26 @@
+
+head{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color:red;
+    text-align: center;
+}
+body{
+    background-color:rgba(245, 245, 245, 0.301);
+    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    text-align: center;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    color: black;
+    text-align: center;
+}
+ol{
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 0cqmax;
+}
